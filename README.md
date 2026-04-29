@@ -105,9 +105,7 @@ Two cases analyzed:
 ## Repository Structure
 
 /code → MATLAB scripts
-/data → experimental temperature data
 /images → plots, diagrams, setup photos
-/cad → SolidWorks models
 /report → full project report
 
 ## Author
